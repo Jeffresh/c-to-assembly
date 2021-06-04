@@ -1,2 +1,2 @@
-# c-to-assembly
-traduction of c code to assembly
+# C to Assembly
+Traduction of C code to assembly
